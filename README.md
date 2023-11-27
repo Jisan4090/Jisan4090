@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jisan4090
+- 👋 Hi, I’m @Nashid Nawaz Jisan
 - 👀 I’m interested in photography, Graphic Designing, Programing
 - 🌱 I’m currently learning 3D Designing , OOP, Java .
 
